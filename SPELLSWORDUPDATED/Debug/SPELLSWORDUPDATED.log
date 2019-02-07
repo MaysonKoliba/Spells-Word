@@ -1,0 +1,11 @@
+﻿  gameLogic.cpp
+c:\users\mayso\desktop\programming\spellswordupdated\spellswordupdated\gamelogic.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\mayso\desktop\programming\spellswordupdated\spellswordupdated\gamelogic.cpp(155): warning C4018: '>': signed/unsigned mismatch
+c:\users\mayso\desktop\programming\spellswordupdated\spellswordupdated\gamelogic.cpp(186): warning C4018: '>': signed/unsigned mismatch
+c:\users\mayso\desktop\programming\spellswordupdated\spellswordupdated\gamelogic.cpp(235): warning C4018: '>': signed/unsigned mismatch
+c:\users\mayso\desktop\programming\spellswordupdated\spellswordupdated\gamelogic.cpp(307): warning C4018: '<': signed/unsigned mismatch
+c:\users\mayso\desktop\programming\spellswordupdated\spellswordupdated\gamelogic.cpp(321): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\mayso\desktop\programming\spellswordupdated\spellswordupdated\main.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  SPELLSWORDUPDATED.vcxproj -> C:\Users\mayso\Desktop\programming\SPELLSWORDUPDATED\Debug\SPELLSWORDUPDATED.exe
